@@ -6,5 +6,5 @@
 
 
 <p align="left">
-  📩 vjaber@artemistech.com.br ⤵️
+  📩 vjaber@artemistech.com.br 
 </p>
